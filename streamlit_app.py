@@ -48,7 +48,7 @@ try:
     st.markdown(f" ## :blue[Chance : {rounded_final} % ] ")
 
     st.markdown(
-        "##### :blue[How it works?]\n  rule : a=1, b=2, c=3, ..., z=26 \n\n  total sum of commom letters / total sum of all the letters in two names")
+        "##### :blue[How it works?]\n  rule : a=1, b=2, c=3, ..., z=26 \n\n  total sum of common letters / total sum of all the letters in two names")
 
 
 except:
